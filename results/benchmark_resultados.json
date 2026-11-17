@@ -1,0 +1,9 @@
+{
+  "prep_cpu_secuencial_s": 28.666346900000008,
+  "prep_cpu_multinucleo_s": 17.92494479999999,
+  "speedup_prep": 1.5992432456472625,
+  "entrenamiento_cpu_s": 433.3505812000001,
+  "entrenamiento_gpu_s": 16.405707800000073,
+  "speedup_entrenamiento": 26.414622671750752,
+  "gpu_nombre": "NVIDIA GeForce RTX 4060 Laptop GPU"
+}
